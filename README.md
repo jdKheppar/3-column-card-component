@@ -54,4 +54,4 @@ I have plans to add a new media query regarding mobile landscape viewport
 ## Author
 
 - Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/jdKheppar)
+- Frontend Mentor - [https://www.frontendmentor.io/profile/jdKheppar)
